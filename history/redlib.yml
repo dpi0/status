@@ -1,7 +1,7 @@
 url: https://red.dpi0.cloud
-status: up
-code: 200
-responseTime: 2385
-lastUpdated: 2025-05-13T23:12:45.619Z
+status: down
+code: 401
+responseTime: 932
+lastUpdated: 2025-05-14T07:13:30.750Z
 startTime: 2025-05-07T18:23:19.989Z
 generator: Upptime <https://github.com/upptime/upptime>
