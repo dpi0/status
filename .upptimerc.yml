@@ -5,18 +5,18 @@ repo: status # The name of this repository
 sites:
   - name: Blog
     url: https://dpi0.cloud
-  - name: Forge
-    url: https://git.dpi0.cloud
+  # - name: Forge
+  #   url: https://git.dpi0.cloud
   - name: URL Shorterner
     url: https://k.dpi0.cloud
   - name: Imgur
     url: https://img.dpi0.cloud
   - name: Redlib
-    url: https://red.dpi0.cloud
+    url: https://r.dpi0.cloud
   - name: Bin
     url: https://bin.dpi0.cloud
-  - name: 4get
-    url: https://4.dpi0.cloud
+  # - name: 4get
+  #   url: https://4.dpi0.cloud
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,7 +25,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
-  introTitle: Uptime for **https://*.dpi0.cloud**
+  introTitle: Uptime for **https://APP.dpi0.cloud**
   introMessage: Uptime status my blog and for some services hosted by [me](https://github.com/dpi0)
   navbar:
     - title: Status
